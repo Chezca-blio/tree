@@ -1,0 +1,20 @@
+<html>
+<head> <title> ICT E-Portfolio </title> </head>
+<br>
+<br>
+<h1 style="text-align:left;color:#ffa900;font-family:verdana;"> ICT E-PORTFOLIO </h1>
+<h2 style="text-align:left;color:black;font-family:verdana;"> Franchezca Aelisha S. Ibatuan </h2>
+<h3 style="text-align:left;color:black;font-family:verdana;"> 9- FAITH </h3>
+<body>
+<p style="text-align:left;color:#ffa900;font-size:30"> 
+<img src="C:\Users\USER\Desktop\e-portfolio\962b2c3093ffccfba976c4d1d08f6c0d.jpg" alt="MAKAALBARN" width="120" height="120" align= "left">
+Hi! Welcome to my E- portfolio. This is all about <br>
+what happened during the 1st quarter of the school year '24-'25. <br>
+I hope that you will enjoy roaming through my website :).<br>
+I wish these memories I made will make you happy.
+</p>
+
+<table align="center
+
+</body>
+</html>
